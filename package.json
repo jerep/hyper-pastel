@@ -1,0 +1,13 @@
+{
+  "name": "hyper-pastel",
+  "description": "Hyper theme with pastel colors",
+  "author": "Jere Piispanen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "jerep/hyper-pastel",
+  "keywords": [
+    "hyper",
+    "hyper-theme"
+  ],
+  "license": "MIT"
+}
